@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=PO-4820-CJJW2\SQLEXPRESS;Database=PRUEBA;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Modelos -Context DataContext -ContextDir Contexto -Force

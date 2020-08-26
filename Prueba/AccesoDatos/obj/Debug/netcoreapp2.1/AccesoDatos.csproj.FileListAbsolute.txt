@@ -1,0 +1,8 @@
+D:\Prueba2\Prueba\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.deps.json
+D:\Prueba2\Prueba\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.dll
+D:\Prueba2\Prueba\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\Prueba2\Prueba\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.AssemblyInfoInputs.cache
+D:\Prueba2\Prueba\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.AssemblyInfo.cs
+D:\Prueba2\Prueba\AccesoDatos\bin\Debug\netcoreapp2.1\AccesoDatos.pdb
+D:\Prueba2\Prueba\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.dll
+D:\Prueba2\Prueba\AccesoDatos\obj\Debug\netcoreapp2.1\AccesoDatos.pdb

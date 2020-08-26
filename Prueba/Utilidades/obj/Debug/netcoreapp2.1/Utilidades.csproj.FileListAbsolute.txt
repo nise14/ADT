@@ -1,0 +1,8 @@
+D:\Prueba2\Prueba\Utilidades\bin\Debug\netcoreapp2.1\Utilidades.deps.json
+D:\Prueba2\Prueba\Utilidades\bin\Debug\netcoreapp2.1\Utilidades.dll
+D:\Prueba2\Prueba\Utilidades\bin\Debug\netcoreapp2.1\Utilidades.pdb
+D:\Prueba2\Prueba\Utilidades\obj\Debug\netcoreapp2.1\Utilidades.csproj.CoreCompileInputs.cache
+D:\Prueba2\Prueba\Utilidades\obj\Debug\netcoreapp2.1\Utilidades.AssemblyInfoInputs.cache
+D:\Prueba2\Prueba\Utilidades\obj\Debug\netcoreapp2.1\Utilidades.AssemblyInfo.cs
+D:\Prueba2\Prueba\Utilidades\obj\Debug\netcoreapp2.1\Utilidades.dll
+D:\Prueba2\Prueba\Utilidades\obj\Debug\netcoreapp2.1\Utilidades.pdb
